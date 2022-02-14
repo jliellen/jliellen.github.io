@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0721b84a.chunk.css",
-    "main.js": "/static/js/main.6c343346.chunk.js",
-    "main.js.map": "/static/js/main.6c343346.chunk.js.map",
+    "main.js": "/static/js/main.70c092de.chunk.js",
+    "main.js.map": "/static/js/main.70c092de.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1a59ba19.js",
     "runtime-main.js.map": "/static/js/runtime-main.1a59ba19.js.map",
     "static/js/2.fb3435a5.chunk.js": "/static/js/2.fb3435a5.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.0721b84a.chunk.css.map": "/static/css/main.0721b84a.chunk.css.map",
     "static/js/2.fb3435a5.chunk.js.LICENSE.txt": "/static/js/2.fb3435a5.chunk.js.LICENSE.txt",
-    "static/media/JL.4baebdd3.pdf": "/static/media/JL.4baebdd3.pdf",
+    "static/media/JL.06741a31.pdf": "/static/media/JL.06741a31.pdf",
     "static/media/main.css": "/static/media/NotoSerif-SemiBold.6108c25b.woff2",
     "static/media/profile.ae96cd6f.jpg": "/static/media/profile.ae96cd6f.jpg"
   },
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1a59ba19.js",
     "static/js/2.fb3435a5.chunk.js",
     "static/css/main.0721b84a.chunk.css",
-    "static/js/main.6c343346.chunk.js"
+    "static/js/main.70c092de.chunk.js"
   ]
 }
