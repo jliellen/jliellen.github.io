@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0721b84a.chunk.css",
+    "main.css": "/static/css/main.6d89267c.chunk.css",
     "main.js": "/static/js/main.cd1bdde7.chunk.js",
     "main.js.map": "/static/js/main.cd1bdde7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1a59ba19.js",
@@ -8,7 +8,7 @@
     "static/js/2.fb3435a5.chunk.js": "/static/js/2.fb3435a5.chunk.js",
     "static/js/2.fb3435a5.chunk.js.map": "/static/js/2.fb3435a5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.0721b84a.chunk.css.map": "/static/css/main.0721b84a.chunk.css.map",
+    "static/css/main.6d89267c.chunk.css.map": "/static/css/main.6d89267c.chunk.css.map",
     "static/js/2.fb3435a5.chunk.js.LICENSE.txt": "/static/js/2.fb3435a5.chunk.js.LICENSE.txt",
     "static/media/JL.5557a1a7.pdf": "/static/media/JL.5557a1a7.pdf",
     "static/media/main.css": "/static/media/NotoSerif-SemiBold.6108c25b.woff2",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a59ba19.js",
     "static/js/2.fb3435a5.chunk.js",
-    "static/css/main.0721b84a.chunk.css",
+    "static/css/main.6d89267c.chunk.css",
     "static/js/main.cd1bdde7.chunk.js"
   ]
 }
