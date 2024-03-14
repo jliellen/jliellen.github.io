@@ -22,9 +22,9 @@ export default class Nav extends Component {
             <a className="social-icon" href="mailto:jliellen@yorku.ca" target="_blank" rel="noopener" title="Email">
               <i className="fas fa-envelope"/>
             </a>
-            <a className="social-icon" href="https://github.com/jliellen" target="_blank" rel="noopener"
-               title="GitHub">
-               <i className="fab fa-github" />
+            <a className="social-icon" href="https://scholar.google.com/citations?user=ir8DKqYAAAAJ&hl=en" target="_blank" rel="noopener"
+               title="Google">
+               <i className="fab fa-google" />
             </a>
             <a className="social-icon" href="https://www.linkedin.com/in/jing-li-0254a4172/" target="_blank"
                rel="noopener" title="LinkedIn">
