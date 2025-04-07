@@ -18,7 +18,7 @@ export default class Main extends Component {
             My current interest is data mining, machine/deep learning, generative models, LLMs.</p>
           <h2 id="news">News</h2>
           <ul>
-            <li><strong>31/12/2023:</strong> I completed my master degree in Computer Science.</li>
+            <li><strong>2/4/2025:</strong> Our paper <a href="https://arxiv.org/pdf/2501.00184">Trajectory Prediction Learning using Deep Generative Models</a> is accepted by <a href='https://dl.acm.org/journal/tsas'>TSAS</a>. </li>
           </ul>
           {/* <h2 id="preprints">Preprints</h2>
           <ul>
@@ -29,18 +29,18 @@ export default class Main extends Component {
           </ul> */}
           <h2 id="publications">Publications</h2>
           <ul>
-            <li><p><a href="https://www.eecs.yorku.ca/~papaggel/docs/papers/all/bdr-epidemics.pdf">Epidemic Spreading in Trajectory Networks</a>. 
-            T. Pechlivanoglou, <strong>J. Li</strong>, J. Sun, F. Heidari, and M. Papagelis. 
-            Big Data Research, 2022.<br/> </p></li>
-            <li><p><a href="https://www.eecs.yorku.ca/~papaggel/docs/papers/all/acm-sigspatial22-spatialepi-microscopic.pdf">Microscopic modeling of spatiotemporal epidemic dynamics</a>. 
-            T. Pechlivanoglou, G. Alix, N. Yanin, <strong>J. Li</strong>, F. Heidari, and M. Papagelis. 
-            ACM SIGSPATIAL, 2022.<br/> </p></li>
-            <li><p><a href="https://www.eecs.yorku.ca/~papaggel/docs/papers/all/ieee-mdm22-epidemics-mobility-recommendation-system.pdf">A Mobility-based Recommendation System for Mitigating the Risk of Infection during Epidemics</a>. 
-            G. Alix, N. Yanin, T. Pechlivanoglou, <strong>J. Li</strong>, F. Heidari, and M. Papagelis. 
-            IEEE MDM, 2022.<br/> </p></li>
-            <li><p><a href="https://www.eecs.yorku.ca/~papaggel/docs/papers/all/acm-sigspatial23-point2hex.pdf">A Mobility-based Recommendation System for Mitigating the Risk of Infection during Epidemics</a>. 
+            <li><p><a href="https://dl.acm.org/doi/10.1145/3589132.3625619">Point2Hex: Higher-order Mobility Flow Data and Resources</a>. 
             A. Faraji*, <strong>J. Li*</strong>, G. Alix, M. Alsaeed, N. Yanin, A. Nadiri, and M. Papagelis. 
             ACM SIGSPATIAL, 2023.<br/> </p></li>
+            <li><p><a href="https://dl.acm.org/doi/10.1016/j.bdr.2021.100275">Epidemic Spreading in Trajectory Networks</a>. 
+            T. Pechlivanoglou, <strong>J. Li</strong>, J. Sun, F. Heidari, and M. Papagelis. 
+            Big Data Research, 2022.<br/> </p></li>
+            <li><p><a href="https://dl.acm.org/doi/10.1145/3557995.3566116">Microscopic modeling of spatiotemporal epidemic dynamics</a>. 
+            T. Pechlivanoglou, G. Alix, N. Yanin, <strong>J. Li</strong>, F. Heidari, and M. Papagelis. 
+            ACM SIGSPATIAL, 2022.<br/> </p></li>
+            <li><p><a href="https://ieeexplore.ieee.org/document/9861127">A Mobility-based Recommendation System for Mitigating the Risk of Infection during Epidemics</a>. 
+            G. Alix, N. Yanin, T. Pechlivanoglou, <strong>J. Li</strong>, F. Heidari, and M. Papagelis. 
+            IEEE MDM, 2022.<br/> </p></li>
           </ul>
           <h2 id="master-thesis">Master Thesis</h2>
           <ul>
